@@ -1,0 +1,3 @@
+2023/02/19 10:12:36 [error] 70768#71528: *1 CreateFile() "C:\Users\geecity\Downloads\Compressed\ChatGPT-All-in-One\ChatGPT-All-in-One/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/02/19 10:34:33 [notice] 71492#63728: signal process started
+2023/02/19 10:43:07 [notice] 62660#63888: signal process started
